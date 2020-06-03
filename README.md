@@ -1,5 +1,5 @@
 # Memory_Game_Vue
-####Memory game using VueJs
+#### Memory game using VueJs
 
 
 ## Project setup
