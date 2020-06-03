@@ -1,4 +1,6 @@
-# memory_game_vue
+# Memory_Game_Vue
+####Memory game using VueJs
+
 
 ## Project setup
 ```
@@ -22,3 +24,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
